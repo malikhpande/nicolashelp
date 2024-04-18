@@ -1,0 +1,5 @@
+Red Licorice;8oz box;$6.75
+Black Licorice;7.5oz box;$7.45
+Small Soda;16oz fountain drink;$3.75
+Medium Soda;32oz fountain drink;$4.50
+Large Soda;48oz fountain drink;$5.00

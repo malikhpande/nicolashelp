@@ -1,0 +1,4 @@
+DrWisdomTooth-17;DRWT #17 - blue background;44;$22.22
+DrWisdomTooth-16;DRWT #16 - red background + referral program;40;$20.00
+Food Pantry #2;CommunityService Donation program;30;$0.00
+Bob's Fishing;An Ad about the local bait shop run by Bob Duncan.;30;$0.50
